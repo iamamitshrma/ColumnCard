@@ -1,0 +1,41 @@
+.container {
+    padding: 10px 20px;
+}
+.section {
+    padding: 22px 20px;
+}
+.section1 {
+    background-color: #e38826;
+    border-radius: 8px 8px 0 0;
+}
+.section2 {
+    background-color: #006970;
+}
+.section3 {
+    background-color: #004241;
+    border-radius: 0 0 8px 8px;
+}
+.heading {
+    margin: 15px 0;
+    color: white;
+}
+.section h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.para {
+    line-height: 2;
+}
+p{
+    color: white;
+}
+.section1 .btn{
+    color: #e38826;
+}
+.section2 .btn{
+    color: #006970;
+}
+.section3 .btn{
+    color: #004241;
+}

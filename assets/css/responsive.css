@@ -1,0 +1,18 @@
+@media all and (min-width: 768px){
+        .wrapper {
+            padding-top: 10%;
+        }
+        .container {
+            flex-direction: row;
+            max-width: 1440px;
+            align-items: center;
+            justify-content: center;
+        }
+        .section1{
+            border-radius: 10px 0 0 10px;
+        }
+        .section3{
+            border-radius: 0 10px 10px 0;
+        }
+
+}
